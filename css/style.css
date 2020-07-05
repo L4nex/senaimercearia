@@ -141,3 +141,7 @@ body {
   .fundo {
     background-color: #272b30;
   }
+
+  tr:hover {
+    background-color: lightgray !important;
+  }
