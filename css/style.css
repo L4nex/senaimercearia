@@ -98,3 +98,46 @@ body {
     border-color: transparent;
     box-shadow: 0 0 0 3px rgba(255, 255, 255, .25);
   }
+
+  .bordona1 {
+    border: solid 1px white;
+    border-radius: 5px;
+    margin: 0 auto;
+    text-align: center;
+    width: 42%;
+    margin-left: 30%;
+    background-color: white;
+    display: block;
+  
+  }
+
+  .centra {
+    margin: 0 auto;
+    width: 500px;
+    text-align: center;
+  }
+
+  .alinhar {
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  .flogin {
+    margin-top: -20px;
+    font-size: 25px;
+  
+    color: blue;
+  } 
+  .flogin a:hover {
+    text-decoration: none;
+    color: white;
+  
+  }
+
+  .formato-registro {
+    margin: 0 auto;
+  }
+
+  .fundo {
+    background-color: #272b30;
+  }
